@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to annalynm's homepage!
+
+This is website serves as Anna McClure's online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.
 
 You can use the [editor on GitHub](https://github.com/annalynm/annalynm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
