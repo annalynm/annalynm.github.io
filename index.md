@@ -1,14 +1,14 @@
 ## Welcome to annalynm's homepage!
 
-This is website serves as Anna McClure's online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.
+This is website serves as my online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.
 
-You can use the [editor on GitHub](https://github.com/annalynm/annalynm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+To see some of my non-programming work, check out my [LinkedIn](https://www.linkedin.com/in/annalynm96/)! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I am a current PhD student with next to no coding experience (I managed to drag my feet through a class on HTML & CSS long enough to code a website in undergrad, but I don't count that.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
