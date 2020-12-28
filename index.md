@@ -1,6 +1,6 @@
 # Welcome to annalynm's homepage!
 
-This is website serves as my online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.
+*This is website serves as my online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.*
 
 To see some of my non-programming work, check out my [LinkedIn](https://www.linkedin.com/in/annalynm96/)! 
 
@@ -16,29 +16,21 @@ Here are the projects I have completed as of end of 2020.
 
 **1. [Christmas Tree](https://github.com/annalynm/Christmas-Tree)**
 ![Image of Pong](https://github.com/annalynm/Christmas-Tree/blob/main/Christmas%20Tree.png)
-```
+
 My first project consisted of animating a Christmas tree with blinking colored lights.
-```
+
 **2. [Snow Animation](https://github.com/annalynm/Let-It-Snow)**
 ![Image of Let It Snow](https://github.com/annalynm/Let-It-Snow/blob/main/Let%20It%20Snow.png)
 
-    For my second project, I animated snow falling over a background picture of a snowman. 
-    
-    I set the program to ask what the temperature that day was and to print a different response 
-    depending on if it was warm or cold before playing the animation.
-    
-    This was a Christmas gift for my mom, so I also had it print "MERRY CHRISTMAS!" at the top of the screen.     
+ For my second project, I animated snow falling over a background picture of a snowman. 
+ I set the program to ask what the temperature that day was and to print a different response depending on if it was warm or cold before playing the animation.
+ This was a Christmas gift for my mom, so I also had it print "MERRY CHRISTMAS!" at the top of the screen.     
 
 **3. [Pong](https://github.com/annalynm/Pong)**
 ![Image of Pong](https://github.com/annalynm/Pong/blob/main/Pong.jpg)
 
-```
- My most recent project was to recreate Pong using python turtle.
+My most recent project was to recreate Pong using python turtle. The initial version I produced is functional, but I want to improve it and add fun features. I intend to add updated versions of Pong in the future with descriptions of what I have changed. 
  
- The initial version I produced is functional, but I want to improve it and add fun features. 
- 
- I intend to add updated versions of Pong in the future with descriptions of what I have changed. 
-```
 ### More Information
-For more details about my coding projects, see [my GitHub page](https://github.com/annalynm).
+For more details about my coding projects, see [my GitHub profile](https://github.com/annalynm).
 
