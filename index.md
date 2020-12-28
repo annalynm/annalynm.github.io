@@ -1,14 +1,20 @@
-## Welcome to annalynm's homepage!
+# Welcome to annalynm's homepage!
 
 This is website serves as my online portfolio for coding projects. Feel free to bookmark it to stay up to date on my projects.
 
 To see some of my non-programming work, check out my [LinkedIn](https://www.linkedin.com/in/annalynm96/)! 
 
-### About Me
+## About Me
 
-I am a current PhD student with next to no coding experience (I managed to drag my feet through a class on HTML & CSS long enough to code a website in undergrad, but I don't count that.)
+I am a current PhD student with next to no coding experience (I managed to drag my feet through a class on HTML & CSS long enough to code a website in undergrad, but I don't count that.) I've recently become interested in learning python, and I've been working on small projects to help with that process. Here are some of the projects that I've worked on so far!
 
+### Recent Projects
+**1. [Christmas Tree](https://github.com/annalynm/Christmas-Tree)**
 
+**2. [Snow Animation](https://github.com/annalynm/Let-It-Snow)**
+
+**3. [Pong](https://github.com/annalynm/Pong)**
+![Image of Pong](https://github.com/annalynm/Pong/blob/main/Pong.jpg)
 
 ```markdown
 Syntax highlighted code block
