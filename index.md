@@ -15,7 +15,7 @@ While on Christmas break I've had time to work on actual projects using video tu
 Here are the projects I have completed as of end of 2020.      
 
 **1. [Christmas Tree](https://github.com/annalynm/Christmas-Tree)**
-![Image of Pong](https://github.com/annalynm/Christmas-Tree/blob/main/Christmas%20Tree.png)
+![Christmas Tree](https://github.com/annalynm/Christmas-Tree/blob/main/Christmas%20Tree.png)
 
 My first project consisted of animating a Christmas tree with blinking colored lights.
 
@@ -28,7 +28,6 @@ My first project consisted of animating a Christmas tree with blinking colored l
 
 **3. [Pong](https://github.com/annalynm/Pong)**
 ![Image of Pong](https://github.com/annalynm/Pong/blob/main/Pong.jpg)
-![New Final Image of Pong](https://github.com/annalynm/annalynm.github.io/blob/pictures/Pong.jpg)
 
 My most recent project was to recreate Pong using python turtle. The initial version I produced is functional, but I want to improve it and add fun features. I intend to add updated versions of Pong in the future with descriptions of what I have changed. 
  
