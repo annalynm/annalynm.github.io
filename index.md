@@ -28,6 +28,7 @@ My first project consisted of animating a Christmas tree with blinking colored l
 
 **3. [Pong](https://github.com/annalynm/Pong)**
 ![Image of Pong](https://github.com/annalynm/Pong/blob/main/Pong.jpg)
+![New Final Image of Pong](https://github.com/annalynm/annalynm.github.io/blob/pictures/Pong.jpg)
 
 My most recent project was to recreate Pong using python turtle. The initial version I produced is functional, but I want to improve it and add fun features. I intend to add updated versions of Pong in the future with descriptions of what I have changed. 
  
