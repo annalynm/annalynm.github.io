@@ -14,8 +14,6 @@ I began learning the basics of python coding during the Fall semester using Code
 While on Christmas break I've had time to work on actual projects using video tutorials and online resources. 
 Here are the projects I have completed as of end of 2020.
 
-![This is a test](https://media.giphy.com/media/9r6FZQ5FI8CIYUpLEg/giphy.gif)
-
 **1. [Christmas Tree](https://github.com/annalynm/Christmas-Tree)**
 ![Christmas Tree](https://github.com/annalynm/Christmas-Tree/blob/main/Christmas%20Tree.png)
 
