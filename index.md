@@ -6,7 +6,9 @@ To see some of my non-programming work, check out my [LinkedIn](https://www.link
 
 ## About Me
 
-I am a current PhD student with next to no coding experience (I managed to drag my feet through a class on HTML & CSS long enough to code a website in undergrad, but I don't count that.) I've recently become interested in learning python, and I've been working on small projects to help with that process. Here are some of the projects that I've worked on so far!
+I am a current PhD student with next to no coding experience. 
+I managed to drag my feet through a class on HTML & CSS long enough to code a website in undergrad, and I worked as a Data Analyst where I only occasionally cried about mySQL... but I really don't count that. 
+I've recently become interested in learning python, and I've been working on small projects to help with that process. Here are some of the projects that I've worked on so far!
 
 ### Recent Projects
 
