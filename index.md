@@ -31,7 +31,12 @@ My first project consisted of animating a Christmas tree with blinking colored l
 **3. [Pong](https://github.com/annalynm/Pong)**
 ![Image of Pong](https://github.com/annalynm/Pong/blob/main/Pong.jpg)
 
-My most recent project was to recreate Pong using python turtle. The initial version I produced is functional, but I want to improve it and add fun features. I intend to add updated versions of Pong in the future with descriptions of what I have changed. 
+My third project was to recreate Pong using python turtle. The initial version I produced is functional, but I want to improve it and add fun features. I intend to add updated versions of Pong in the future with descriptions of what I have changed.
+
+**4. [Pacman](https://github.com/annalynm/Pacman)**
+![Pacman.png](https://github.com/annalynm/Pacman/blob/main/Pacman%20.png)
+
+After finishing Pong, I was interested in exploring similar but more complex projects. I enjoy project-based learning and especially liked working on a project where I was familiar with what the end product was suppose to be like. I found (www.pacmancode.com) and thought recreating Pacman would be a fun challenge to end my holiday break with. 
  
 ### More Information
 For more details about my coding projects, see [my GitHub profile](https://github.com/annalynm).
